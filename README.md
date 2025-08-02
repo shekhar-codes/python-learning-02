@@ -13,6 +13,10 @@ Understanding these is essential to write logical and functional code in Python.
 - Variable declaration and assignment
 - Naming conventions (snake_case, camelCase)
 - Dynamic typing in Python
+
+- ✍️ Author
+Made with ❤️ by [shekhar]
+Exploring deeper layers of Python with every repo.
 - Re-assigning values
 - Multiple assignment in one line
 
